@@ -1,0 +1,7 @@
+
+program:
+  - name: in
+  - student:
+    - name: Phuong
+    - lastname: TienDong
+    - group: IKBO-24-20

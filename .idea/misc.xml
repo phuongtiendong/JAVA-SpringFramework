@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/task13/pom.xml" />
+        <option value="$PROJECT_DIR$/task14/pom.xml" />
+        <option value="$PROJECT_DIR$/task15/pom.xml" />
+        <option value="$PROJECT_DIR$/task16/pom.xml" />
+        <option value="$PROJECT_DIR$/task17/pom.xml" />
+        <option value="$PROJECT_DIR$/task18/pom.xml" />
+        <option value="$PROJECT_DIR$/task19/pom.xml" />
+        <option value="$PROJECT_DIR$/task20/pom.xml" />
+        <option value="$PROJECT_DIR$/task21/pom.xml" />
+        <option value="$PROJECT_DIR$/task22/pom.xml" />
+        <option value="$PROJECT_DIR$/task23/pom.xml" />
+        <option value="$PROJECT_DIR$/task24/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+  <component name="SwUserDefinedSpecifications">
+    <option name="specTypeByUrl">
+      <map />
+    </option>
+  </component>
+</project>
